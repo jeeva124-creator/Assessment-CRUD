@@ -1,1 +1,1 @@
-![Alt text](image\Screenshot 2025-07-02 222826.png)
+![Alt text](/image/Screenshot%202025-07-02%20222826.png)
