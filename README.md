@@ -1,0 +1,1 @@
+![Alt text](image\Screenshot 2025-07-02 222826.png)
